@@ -1,0 +1,9 @@
+h2 {
+  background-color: blue;
+}
+
+@media (max-width: 500px) {
+  body {
+    background-color: rebeccapurple;
+  }
+}
